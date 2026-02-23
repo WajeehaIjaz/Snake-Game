@@ -21,16 +21,4 @@ Python
 
 Pygame
 
-This project demonstrates basic game development concepts such as event handling, loops, collision detection, and graphical rendering.
 
-If you want, I can also give:
-
-📄 A more professional README version
-
-🚀 A version with installation steps
-
-🎓 A version suitable for academic submission
-
-⭐ A catchy description for GitHub profile
-
-Tell me which one you prefer 😊
